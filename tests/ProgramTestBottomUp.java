@@ -8,7 +8,7 @@ import java.io.PrintStream;
 import static org.junit.Assert.*;
 
 
-public class ProgramTest {
+public class ProgramTestBottomUp {
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final ByteArrayOutputStream errContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
