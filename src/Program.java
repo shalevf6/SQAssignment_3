@@ -8,7 +8,7 @@ public class Program {
 	}
 	
 	// Prints the array
-	public  void printArr(int[] arr) {
+	public void printArr(int[] arr) {
 		for(int val: arr)
 			System.out.print(val+" ");
 		System.out.println();
